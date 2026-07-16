@@ -22,6 +22,12 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    dependenciesInfo {
+        // disable dependenciesInfo to pass F-Droid scanner
+        includeInApk = false
+        includeInBundle = false
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = true
