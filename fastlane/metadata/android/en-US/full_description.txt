@@ -1,0 +1,3 @@
+DND is a simple app to control Do Not Disturb.
+It shows if DND is on or off and which mode is active, then lets you turn it on or off and pick the mode (Total Silence, Priority Only, or Alarms Only).
+It automatically creates QS (Quick Setting) tile

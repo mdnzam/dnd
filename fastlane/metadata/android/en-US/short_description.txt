@@ -1,0 +1,1 @@
+Simple DND alternative with a quick settings tile.
